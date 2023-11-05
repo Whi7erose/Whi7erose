@@ -21,7 +21,7 @@
 
 ###
 Finding creative solutions to problems is something I have always enjoyed. As a kid, I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
-Currently, I m focusing on my studies and trying to develop my skills. so I can better perform in the problem-solving world.
+Currently, I'm focusing on my studies and trying to develop my skills. so I can better perform in the problem-solving world.
 #FromTheVirtualArenaToTheDigitalFrontier:  
   
 
@@ -65,9 +65,9 @@ Currently, I m focusing on my studies and trying to develop my skills. so I can 
 
 <br/>  
 
-<details><summary> Rapidfire </summary><table><tr><td valign="top" width="50%">
 
-⚡ Fun fact: I keep night shift swithed on at all times   
+
+⚡ Fun fact: I keep the night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
