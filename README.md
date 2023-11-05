@@ -19,8 +19,8 @@
 
 
 
-### -------------------------------------------------------------------------  
-Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
+###
+Finding creative solutions to problems is something I have always enjoyed. As a kid, I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
 Currently, I m focusing on my studies and trying to develop my skills. so I can better perform in the problem-solving world.
 #FromTheVirtualArenaToTheDigitalFrontier:  
   
@@ -110,5 +110,4 @@ Currently, I m focusing on my studies and trying to develop my skills. so I can 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
