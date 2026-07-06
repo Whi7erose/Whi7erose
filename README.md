@@ -100,4 +100,8 @@ Currently, I'm focusing on my studies and trying to develop my skills. so I can 
             </a></div>
 <br />
 
+## 📊 GitHub Contributions
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution">
+</div>
